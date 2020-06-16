@@ -5,11 +5,10 @@ project dashboard
  </h1>
 https://node-red-xfypt.eu-gb.mybluemix.net/ui/#!/0?socketid=7iURErPyk9QF0DPXAAAD
 <h2>
-project video
+project demonstration video
  </h2>
-https://drive.google.com/file/d/1-U7xA3WiqZR1fDQCGaER1mf5Yv0kToBY/view?usp=sharing
+https://drive.google.com/file/d/1fcMmW7ejvvbz5o-kxrJpE2teVcUkoTo2/view?usp=drivesdk
 <h3>
 feedback video
 </h3>
  https://drive.google.com/file/d/1O1MmjvpwGCB4fdNQLXFn5FoXvRetSPkY/view?usp=drivesdk
-
